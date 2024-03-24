@@ -3,8 +3,8 @@ import valid as v
 # Author:           Kimberly Rodriguez
 # Assignment:       Assignment 4
 # Date:             2/10/2024
-# Description:      This program calculates the number of times a user can
-#                   sing a song
+# Description:      This program helps plan out your
+#                   singing time
 # Revisions:        A01 - initial assignment
 #                   A02 - refactored the code to use functions for inputs,
 #                         calculations and outputs
